@@ -50,7 +50,7 @@ A logistic regression model was used to predict employee turnover. To address cl
 
 **Model Performance**
 ===
-![searched number of guests](images/matrix.png)
+![matrix](images/metrix.png)
 
 
 **Accuracy:** 84% overall accuracy, meaning the model correctly predicted whether an employee would stay or leave 84% of the time.
