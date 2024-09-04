@@ -50,12 +50,13 @@ A logistic regression model was used to predict employee turnover. To address cl
 
 **Model Performance**
 ===
+![searched number of guests](images/matrix.png)
 
 
 **Accuracy:** 84% overall accuracy, meaning the model correctly predicted whether an employee would stay or leave 84% of the time.
 
 **Precision and Recall:**
-High precision (0.99) for predicting employees who would stay, but lower precision (0.52) for predicting those who would leave.
+High precision (0.99) is used to predict employees who will stay, but lower precision (0.52) is used to predict those who will leave.
 High recall (0.94) for predicting employees who would leave, meaning the model effectively identified most potential leavers.
 
 **F1-Score:** Balanced F1-score (0.90) for predicting employees who would stay, but a lower F1-score (0.67) for predicting those who would leave, indicating room for improvement.
